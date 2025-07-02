@@ -1,2 +1,2 @@
 # Experimentos-y-Data Science-
-codigos con distintos tipos de distribuciones y analisis a ficheros de excel 
+codigos con distintos tipos de distribuciones y analisis a datasets
